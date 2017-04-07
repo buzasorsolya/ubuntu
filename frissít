@@ -1,4 +1,4 @@
 #!/bin/bash
 sudo apt-get update --yes
 sudo apt-get upgrade --yes
-echo Kesz a frissites!
+echo Kesz a frissites
